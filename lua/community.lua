@@ -20,4 +20,5 @@ return {
   { import = "astrocommunity.editing-support.multicursors-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim"},
   { import = "astrocommunity.debugging.nvim-dap-view" },
+  { import = "astrocommunity.terminal-integration.vim-tmux-navigator" },
 }
